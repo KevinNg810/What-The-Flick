@@ -1,0 +1,251 @@
+GlobalRanking,Movie Title,ReleaseYear,Director,MPAARating
+1,Star Wars,1977,George Lucas,PG
+2,The Empire Strikes Back,1980,Irvin Kershner,PG
+3,The Godfather,1972,Francis Ford Coppola,R
+4,Raiders of the Lost Ark,1981,Steven Spielberg,PG
+5,The Shawshank Redemption,1994,Frank Darabont,R
+6,Pulp Fiction,1994,Quentin Tarantino,R
+7,Return of the Jedi,1983,Richard Marquand,PG
+8,The Godfather Part II,1974,Francis Ford Coppola,R
+9,Back to the Future,1985,Robert Zemeckis,PG
+10,Ikiru,1952,Akira Kurosawa,NR
+11,Fight Club,1999,David Fincher,R
+12,Rear Window,1954,Alfred Hitchcock,PG
+13,City Lights,1931,Charles Chaplin,G
+14,GoodFellas,1990,Martin Scorsese,R
+15,The Dark Knight,2008,Christopher Nolan,PG13
+16,Alien,1979,Ridley Scott,R
+17,Casablanca,1942,Michael Curtiz,PG
+18,Seven Samurai,1954,Akira Kurosawa,NR
+19,The Shining,1980,Stanley Kubrick,R
+20,The Silence of the Lambs,1991,Jonathan Demme,R
+21,Indiana Jones and the Last Crusade,1989,Steven Spielberg,PG13
+22,Reservoir Dogs,1992,Quentin Tarantino,R
+23,One Flew Over the Cuckoo's Nest,1975,Milos Forman,R
+24,Monty Python and the Holy Grail,1975,"Terry Gilliam, Terry Jones",PG
+25,"The Good, the Bad and the Ugly",1966,Sergio Leone,NR
+26,The Apartment,1960,Billy Wilder,NR
+27,M,1931,Fritz Lang,NR
+28,Se7en,1995,David Fincher,R
+29,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,NR
+30,Citizen Kane,1941,Orson Welles,NR
+31,Double Indemnity,1944,Billy Wilder,NR
+32,North by Northwest,1959,Alfred Hitchcock,NR
+33,Die Hard,1988,John McTiernan,R
+34,The Third Man,1949,Carol Reed,NR
+35,Ghostbusters,1984,Ivan Reitman,PG
+36,Yojimbo,1961,Akira Kurosawa,NR
+37,RashÃ´mon,1950,Akira Kurosawa,NR
+38,Sunrise: A Song of Two Humans,1927,F.W. Murnau,NR
+39,The Matrix,1999,The Wachowskis,R
+40,The Night of the Hunter,1955,Charles Laughton,NR
+41,High and Low,1963,Akira Kurosawa,NR
+42,Taxi Driver,1976,Martin Scorsese,R
+43,Blade Runner,1982,Ridley Scott,R
+44,The Princess Bride,1987,Rob Reiner,PG
+45,The Wages of Fear,1953,Henri-Georges Clouzot,NR
+46,Psycho,1960,Alfred Hitchcock,NR
+47,Harakiri,1962,Masaki Kobayashi,NR
+48,The Usual Suspects,1995,Bryan Singer,R
+49,Terminator 2: Judgment Day,1991,James Cameron,R
+50,12 Angry Men,1957,Sidney Lumet,NR
+51,Vertigo,1958,Alfred Hitchcock,PG
+52,Aliens,1986,James Cameron,R
+53,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,PG13
+54,Apocalypse Now,1979,Francis Ford Coppola,R
+55,Paths of Glory,1957,Stanley Kubrick,NR
+56,The General,1926,"Clyde Bruckman, Buster Keaton",NR
+57,A Clockwork Orange,1971,Stanley Kubrick,R
+58,Chinatown,1974,Roman Polanski,R
+59,Schindler's List,1993,Steven Spielberg,R
+60,Saving Private Ryan,1998,Steven Spielberg,R
+61,Touch of Evil,1958,Orson Welles,NR
+62,Jaws,1975,Steven Spielberg,PG
+63,Bicycle Thieves,1948,Vittorio De Sica,NR
+64,Persona,1966,Ingmar Bergman,NR
+65,Ferris Bueller's Day Off,1986,John Hughes,PG13
+66,The Red Shoes,1948,"Michael Powell, Emeric Pressburger",NR
+67,Le samouraÃ¯,1967,Jean-Pierre Melville,PG
+68,Forrest Gump,1994,Robert Zemeckis,PG13
+69,The Lord of the Rings: The Return of the King,2003,Peter Jackson,PG13
+70,Jurassic Park,1993,Steven Spielberg,PG13
+71,The Treasure of the Sierra Madre,1948,John Huston,NR
+72,The 400 Blows,1959,FranÃ§ois Truffaut,NR
+73,Toy Story,1995,John Lasseter,G
+74,Full Metal Jacket,1987,Stanley Kubrick,R
+75,It Happened One Night,1934,Frank Capra,NR
+76,The Big Lebowski,1998,Joel & Ethan Coen,R
+77,Tokyo Story,1953,YasujirÃ´ Ozu,NR
+78,Notorious,1946,Alfred Hitchcock,NR
+79,Memento,2000,Christopher Nolan,R
+80,The Terminator,1984,James Cameron,R
+81,The Passion of Joan of Arc,1928,Carl Theodor Dreyer,NR
+82,Modern Times,1936,Charles Chaplin,G
+83,Sunset Blvd.,1950,Billy Wilder,NR
+84,The Seventh Seal,1957,Ingmar Bergman,NR
+85,Wild Strawberries,1957,Ingmar Bergman,NR
+86,Strangers on a Train,1951,Alfred Hitchcock,PG
+87,Fargo,1996,Joel & Ethan Coen,R
+88,2001: A Space Odyssey,1968,Stanley Kubrick,G
+89,The Lord of the Rings: The Two Towers,2002,Peter Jackson,PG13
+90,8Â½,1963,Federico Fellini,NR
+91,On the Waterfront,1954,Elia Kazan,NR
+92,Grand Illusion,1937,Jean Renoir,NR
+93,The Professional,1994,Luc Besson,R
+94,Ace in the Hole,1951,Billy Wilder,NR
+95,Rocky,1976,John G. Avildsen,PG
+96,The Philadelphia Story,1940,George Cukor,NR
+97,Indiana Jones and the Temple of Doom,1984,Steven Spielberg,PG
+98,Network,1976,Sidney Lumet,R
+99,Cool Hand Luke,1967,Stuart Rosenberg,NR
+100,The Conversation,1974,Francis Ford Coppola,PG
+101,The Rules of the Game,1939,Jean Renoir,NR
+102,Raging Bull,1980,Martin Scorsese,R
+103,Shadow of a Doubt,1943,Alfred Hitchcock,PG
+104,Inception,2010,Christopher Nolan,PG13
+105,Batman Begins,2005,Christopher Nolan,PG13
+106,The Gold Rush,1925,Charles Chaplin,NR
+107,The Maltese Falcon,1941,John Huston,NR
+108,The Man Who Shot Liberty Valance,1962,John Ford,NR
+109,The Departed,2006,Martin Scorsese,R
+110,Throne of Blood,1957,Akira Kurosawa,NR
+111,His Girl Friday,1940,Howard Hawks,NR
+112,All About Eve,1950,Joseph L. Mankiewicz,NR
+113,Badlands,1973,Terrence Malick,PG
+114,La Dolce Vita,1960,Federico Fellini,NR
+115,Sweet Smell of Success,1957,Alexander Mackendrick,NR
+116,The Big Sleep,1946,Howard Hawks,NR
+117,Groundhog Day,1993,Harold Ramis,PG
+118,The Searchers,1956,John Ford,NR
+119,The Great Dictator,1940,Charles Chaplin,G
+120,Aguirre: The Wrath of God,1972,Werner Herzog,NR
+121,Stand by Me,1986,Rob Reiner,R
+122,Stalker,1979,Andrei Tarkovsky,NR
+123,It's a Wonderful Life,1946,Frank Capra,NR
+124,The Wizard of Oz,1939,Victor Fleming,NR
+125,Good Will Hunting,1997,Gus Van Sant,R
+126,Rope,1948,Alfred Hitchcock,NR
+127,Butch Cassidy and the Sundance Kid,1969,George Roy Hill,PG
+128,Sherlock Jr.,1924,Buster Keaton,NR
+129,The Thin Man,1934,W.S. Van Dyke,NR
+130,The Breakfast Club,1985,John Hughes,R
+131,Out of the Past,1947,Jacques Tourneur,NR
+132,Inglourious Basterds,2009,Quentin Tarantino,R
+133,The Lion King,1994,"Roger Allers, Rob Minkoff",G
+134,Annie Hall,1977,Woody Allen,PG
+135,Duck Soup,1933,Leo McCarey,NR
+136,Days of Heaven,1978,Terrence Malick,PG
+137,A Fistful of Dollars,1964,Sergio Leone,R
+138,Mr. Smith Goes to Washington,1939,Frank Capra,NR
+139,American History X,1998,Tony Kaye,R
+140,The Thing,1982,John Carpenter,R
+141,My Neighbor Totoro,1988,Hayao Miyazaki,G
+142,Diabolique,1955,Henri-Georges Clouzot,NR
+143,Office Space,1999,Mike Judge,R
+144,In a Lonely Place,1950,Nicholas Ray,NR
+145,The Kid,1921,Charles Chaplin,NR
+146,Bringing Up Baby,1938,Howard Hawks,NR
+147,Rio Bravo,1959,Howard Hawks,NR
+148,Shaun of the Dead,2004,Edgar Wright,R
+149,Breathless,1960,Jean-Luc Godard,NR
+150,Anatomy of a Murder,1959,Otto Preminger,NR
+151,Kill Bill Vol. 1,2003,Quentin Tarantino,R
+152,Once Upon a Time in the West,1968,Sergio Leone,PG13
+153,Gladiator,2000,Ridley Scott,R
+154,Sullivan's Travels,1941,Preston Sturges,NR
+155,Rififi,1955,Jules Dassin,NR
+156,The Killing,1956,Stanley Kubrick,NR
+157,Rebecca,1940,Alfred Hitchcock,NR
+158,Unforgiven,1992,Clint Eastwood,R
+159,For a Few Dollars More,1965,Sergio Leone,R
+160,A Matter of Life and Death,1946,"Michael Powell, Emeric Pressburger",PG
+161,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,R
+162,The Sting,1973,George Roy Hill,PG
+163,Metropolis,1927,Fritz Lang,NR
+164,Lawrence of Arabia,1962,David Lean,G
+165,The Graduate,1967,Mike Nichols,PG
+166,No Country for Old Men,2007,Joel & Ethan Coen,R
+167,Laura,1944,Otto Preminger,NR
+168,The Great Escape,1963,John Sturges,NR
+169,Dog Day Afternoon,1975,Sidney Lumet,R
+170,To Kill a Mockingbird,1962,Robert Mulligan,NR
+171,Stalag 17,1953,Billy Wilder,NR
+172,All the President's Men,1976,Alan J. Pakula,PG
+173,Charade,1963,Stanley Donen,NR
+174,Whiplash,2014,Damien Chazelle,R
+175,E.T.: The Extra-Terrestrial,1982,Steven Spielberg,PG
+176,In the Mood for Love,2000,Wong Kar-Wai,PG
+177,Back to the Future Part II,1989,Robert Zemeckis,PG
+178,Willy Wonka & the Chocolate Factory,1971,Mel Stuart,G
+179,The Hustler,1961,Robert Rossen,NR
+180,Manhattan,1979,Woody Allen,R
+181,Fanny and Alexander,1982,Ingmar Bergman,R
+182,The Best Years of Our Lives,1946,William Wyler,NR
+183,Ran,1985,Akira Kurosawa,R
+184,Bride of Frankenstein,1935,James Whale,NR
+185,Scarface,1983,Brian De Palma,R
+186,Dial M for Murder,1954,Alfred Hitchcock,NR
+187,Brief Encounter,1945,David Lean,NR
+188,The Lady Vanishes,1938,Alfred Hitchcock,NR
+189,The French Connection,1971,William Friedkin,R
+190,12 Monkeys,1995,Terry Gilliam,R
+191,The Wild Bunch,1969,Sam Peckinpah,R
+192,The Hidden Fortress,1958,Akira Kurosawa,NR
+193,The Life and Death of Colonel Blimp,1943,"Michael Powell, Emeric Pressburger",NR
+194,Young Frankenstein,1974,Mel Brooks,PG
+195,The Bridge on the River Kwai,1957,David Lean,PG
+196,City of God,2002,"Fernando Meirelles, KÃ¡tia Lund",R
+197,American Beauty,1999,Sam Mendes,R
+198,Life of Brian,1979,Terry Jones,R
+199,The Battle of Algiers,1966,Gillo Pontecorvo,NR
+200,Iron Man,2008,Jon Favreau,PG13
+201,Braveheart,1995,Mel Gibson,R
+202,To Be or Not to Be,1942,Ernst Lubitsch,NR
+203,Singin' in the Rain,1952,"Stanley Donen, Gene Kelly",NR
+204,The Goonies,1985,Richard Donner,PG
+205,Witness for the Prosecution,1957,Billy Wilder,NR
+206,Miller's Crossing,1990,Joel & Ethan Coen,R
+207,The Prestige,2006,Christopher Nolan,PG13
+208,Airplane!,1980,"Jim Abrahams, David Zucker, Jerry Zucker",PG
+209,The Long Goodbye,1973,Robert Altman,R
+210,High Noon,1952,Fred Zinnemann,NR
+211,Some Like It Hot,1959,Billy Wilder,PG13
+212,My Man Godfrey,1936,Gregory La Cava,NR
+213,The King of Comedy,1982,Martin Scorsese,PG
+214,"Paris, Texas",1984,Wim Wenders,R
+215,Roman Holiday,1953,William Wyler,NR
+216,Django Unchained,2012,Quentin Tarantino,R
+217,The Deer Hunter,1978,Michael Cimino,R
+218,Arsenic and Old Lace,1944,Frank Capra,NR
+219,The Blues Brothers,1980,John Landis,NR
+220,The Magnificent Seven,1960,John Sturges,NR
+221,The Untouchables,1987,Brian De Palma,R
+222,The Shop Around the Corner,1940,Ernst Lubitsch,NR
+223,Sanjuro,1962,Akira Kurosawa,PG13
+224,Rain Man,1988,Barry Levinson,R
+225,WALLÂ·E,2008,Andrew Stanton,PG
+226,Grave of the Fireflies,1988,Isao Takahata,NR
+227,Who's Afraid of Virginia Woolf?,1966,Mike Nichols,NR
+228,Mad Max: Fury Road,2015,George Miller (II),R
+229,Black Narcissus,1947,"Michael Powell, Emeric Pressburger",NR
+230,Predator,1987,John McTiernan,R
+231,A Night at the Opera,1935,Sam Wood,NR
+232,Bonnie and Clyde,1967,Arthur Penn,R
+233,The Exorcist,1973,William Friedkin,R
+234,NausicaÃ¤ of the Valley of the Wind,1984,Hayao Miyazaki,PG
+235,Stagecoach,1939,John Ford,NR
+236,Blazing Saddles,1974,Mel Brooks,R
+237,Come and See,1985,Elem Klimov,NR
+238,The Sixth Sense,1999,M. Night Shyamalan,PG13
+239,The Incredibles,2004,Brad Bird,PG
+240,Finding Nemo,2003,Andrew Stanton,G
+241,Barry Lyndon,1975,Stanley Kubrick,PG
+242,The Bourne Identity,2002,Doug Liman,PG13
+243,Avengers: Endgame,2019,"Anthony Russo, Joe Russo",PG13
+244,Trainspotting,1996,Danny Boyle,NR
+245,Chungking Express,1994,Wong Kar-Wai,PG13
+246,Suspiria,1977,Dario Argento,R
+247,Repulsion,1965,Roman Polanski,NR
+248,The Avengers,2012,Joss Whedon,PG13
+249,The 39 Steps,1935,Alfred Hitchcock,NR
+250,Batman,1989,Tim Burton,PG13
